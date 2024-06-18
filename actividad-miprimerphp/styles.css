@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+img[alt="Mi Imagen"]{
+    height: 200px;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
